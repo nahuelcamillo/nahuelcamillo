@@ -1,19 +1,19 @@
-# Hi there, <img src="images/wave.gif" width="30px"> I'm Nahuel.
+# Hola! <img src="images/wave.gif" width="30px"> Soy Nahuel.
 
 <table align="right">
  <tr><td><a href="README.md"><img src="images/US_flag.png" height="11"> English</a></td></tr>
 <tr><td><a href="README_es.md"><img src="images/ES_flag.png" height="13"> Español</a></td></tr>
 </table>
 
-## 📖 About me
+## 📖 Sobre mi
 
-I am from Buenos Aires, Argentina. I'm currently working on @CBASCorp as a Full-Stack developer👨‍💻.
+Soy de Buenos Aires, Argentina. Actualmente estoy trabajando en @CBASCorp como desarrollador Full-Stack 👨‍💻.
 
-😄 Pronouns: He/Him. \
-🤔 I have a love/hate relationship with Programming.\
-💓 Passionate with problem solving and daily routines automation.\
-💬 Ask me about anything, I am happy to help.\
-📫 How to reach me: 
+😄 Pronombres: él. \
+🤔 Tengo una relación amor/odio con la programación. \
+💓 Pasión por la resolución de problemas y la automatización de rutinas diarias. \
+💬 Preguntame lo que necesites, feliz de ayudar. \
+📫 Para contactarme: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-nahuelcamillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nahuel-camillo-7294a242//)](https://www.linkedin.com/in/nahuel-camillo-7294a242/)
 [![Instagram Badge](https://img.shields.io/badge/-nahue.camillo-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/nahue.camillo/)](https://instagram.com/nahue.camillo)
@@ -22,9 +22,8 @@ I am from Buenos Aires, Argentina. I'm currently working on @CBASCorp as a Full-
 <hr/>
 <br>
 
-## 💻 &nbsp;Main tech knowledge
+## 💻 &nbsp;Principales conocimientos tecnológicos
 <details>
-  <!-- <summary><b>💻 &nbsp;Main tech knowledge</b></summary> -->
   <summary>...</summary>
   <br/>
 
@@ -65,11 +64,10 @@ I am from Buenos Aires, Argentina. I'm currently working on @CBASCorp as a Full-
 <hr/>
 <br>
 
-## 🌱 &nbsp;Other knowledge, always learning
+## 🌱 &nbsp;Otros conococimientos, siempre aprendiendo
 
 <details>
-  <!-- <summary><b>⚡ &nbsp;Other knowledge, always learning</b></summary> -->
-  <summary>...</summary>
+    <summary>...</summary>
   <br/>
 
 ![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
@@ -92,10 +90,9 @@ I am from Buenos Aires, Argentina. I'm currently working on @CBASCorp as a Full-
 <hr/>
 <br>
 
-## 📊 &nbsp;GitHub Statistics
+## 📊 &nbsp;Estadísticas GitHub
 
 <details>
-  <!-- <summary><b>📊 &nbsp;GitHub Statistics</b></summary> -->
   <summary>...</summary>
   <br/>
     <p align="center">
@@ -109,10 +106,6 @@ I am from Buenos Aires, Argentina. I'm currently working on @CBASCorp as a Full-
 <br>
 <br>
 
-<!-- <p align="right">
-<img src="https://komarev.com/ghpvc/?username=nahuelcamillo&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/nahuelcamillo/nahuelcamillo?color=black&logo=github" />
-</p> -->
 <p align="left">
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nahuelcamillo.nahuelcamillo)
