@@ -16,7 +16,6 @@ I am from Buenos Aires, Argentina. I'm currently working on @CBASCorp as a Full-
 📫 How to reach me: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-nahuelcamillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nahuel-camillo-7294a242//)](https://www.linkedin.com/in/nahuel-camillo-7294a242/)
-[![Instagram Badge](https://img.shields.io/badge/-nahue.camillo-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/nahue.camillo/)](https://instagram.com/nahue.camillo)
 [![Gmail Badge](https://img.shields.io/badge/-nahuel.camillo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nahuel.camillo@gmail.com)](mailto:nahuel.camillo@gmail.com)
 
 <hr/>
